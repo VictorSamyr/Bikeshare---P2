@@ -1,0 +1,18 @@
+# build output
+out/
+*.class
+
+# arquivo de persistencia gerado em tempo de execucao
+*.ser
+bikeshare_data.*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# SO
+.DS_Store
+
+# zip de entrega no Classroom
+*.zip
